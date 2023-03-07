@@ -137,7 +137,7 @@
   margin-bottom: 50px;
 }
 .content_box::before {
-  background: url("../img/bg-style-1.png") no-repeat scroll 0 0 #fff;
+  background: url(../img/bg-style-1.png) no-repeat scroll 0 0 #fff;
   background-size: 100% auto;
   content: "";
   left: 0;
@@ -459,7 +459,7 @@
   margin: 15px 0;
 }
 .bg-type-2 {
-  background: url("../img/bg-image-red.png") no-repeat scroll 0 0 transparent;
+  background: url(../img/bg-image-red.png) no-repeat scroll 0 0 transparent;
   background-size: 100% 100%;
   color: #fff;
   text-align: center;
@@ -588,7 +588,7 @@
   cursor: pointer;
 }
 .bg-type-3 {
-  background: url("../img/bg-image-type2-bottom.png") no-repeat scroll 0 0 #fff;
+  background: url(../img/bg-image-type2-bottom.png) no-repeat scroll 0 0 #fff;
   background-size: 100% auto;
   background-position: center bottom;
   color: #fff;
@@ -598,7 +598,7 @@
   margin: 150px 0 0;
 }
 .bg-type-3::before {
-  background: url("../img/bg-image-type2.png") no-repeat scroll 0 0 transparent;
+  background: url(../img/bg-image-type2.png) no-repeat scroll 0 0 transparent;
   background-size: 100% auto;
   background-position: center bottom;
   content: "";
@@ -621,7 +621,7 @@
 .box__video-video {
   position: relative;
   z-index: 3;
-  background: url("../img/macbook.png") no-repeat scroll center center
+  background: url(../img/macbook.png) no-repeat scroll center center
     transparent;
   padding-bottom: 188px;
   padding-top: 100px;
@@ -678,7 +678,7 @@
   padding: 40px 0 0px;
 }
 .bg-type-4::before {
-  background: url("../img/bg-type3-top.png") no-repeat scroll 0 0 transparent;
+  background: url(../img/bg-type3-top.png) no-repeat scroll 0 0 transparent;
   background-size: 100% auto;
   background-position: center bottom;
   position: absolute;
@@ -690,7 +690,7 @@
   height: 146px;
 }
 .bg-type-4::after {
-  background: url("../img/bg-type3-bottom.png") no-repeat scroll 0 0 transparent;
+  background: url(../img/bg-type3-bottom.png) no-repeat scroll 0 0 transparent;
   background-size: 100% auto;
   position: absolute;
   content: "";
@@ -724,7 +724,7 @@
   font-size: 1.5rem;
 }
 .box__client-description::before {
-  background: url("../img/quote.png") no-repeat scroll 0 0 transparent;
+  background: url(../img/quote.png) no-repeat scroll 0 0 transparent;
   background-size: 100% auto;
   content: "";
   position: absolute;
@@ -788,7 +788,7 @@
   border-color: var(--white);
 }
 .footer {
-  background: url("../img/bg-locate.png") no-repeat scroll center center #242628;
+  background: url(../img/bg-locate.png) no-repeat scroll center center #242628;
   color: #bfbfbf;
   padding: 50px 0 0;
   border-bottom: 50px solid #0a0c0d;
