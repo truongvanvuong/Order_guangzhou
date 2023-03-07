@@ -20,7 +20,7 @@
         margin: 100px 0;
     }
     .bg-type-2::before{
-        background: url(/Order_TaoBao/assets/img/bg-image-1-top.jpg) no-repeat scroll 0 0 transparent;
+        background: url(../img/bg-image-1-top.jpg) no-repeat scroll 0 0 transparent;
         background-size: 100% auto;
         background-position: center bottom;
         left: 0;
@@ -33,7 +33,7 @@
 
     }
     .bg-type-2::after{
-        background: url(/Order_TaoBao/assets/img/bg-image-1-bottom.jpg) no-repeat scroll 0 0 transparent;
+        background: url(../img/bg-image-1-bottom.jpg) no-repeat scroll 0 0 transparent;
         background-size: 100% auto;
         left: 0;
         right: 0;
